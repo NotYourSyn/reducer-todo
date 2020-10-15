@@ -4,9 +4,14 @@ export const initialState = [{
     id: 3892987589
   },
   {
-      item: 'Get my homework done ',
+      item: 'Get my homework done',
       completed: false,
-      id: 2390472389
+      id: 703301979
+  },
+  {
+      item: 'Time to make Beats',
+      completed: false,
+      id: 703301980
   }
 ]
 

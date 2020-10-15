@@ -10,8 +10,6 @@ const TodoList = props => {
         setTask(e.target.value)
     }
 
-    // console.log(task)
-
     return (
         <div>
             <h1>To Do List!</h1>
